@@ -28,8 +28,6 @@ Or use directly in your html as UMD component
 
 https://reactcommunity.org/react-tabs/example/
 
-(TODO: This demos are outdated and use super old versions of react and react-tabs)
-
 ## Basic Example
 
 ```js
